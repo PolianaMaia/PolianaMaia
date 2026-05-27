@@ -17,8 +17,6 @@ Focused on firmware, RTOS, control systems and low-level software development.
 - Studying French for DELF B2 certification
 - Background in SQL, Power BI, databases and optimization
 
----
-
 <h1 align="center">🎯 Current Focus</h1>
 
 - CS50P Harvard
@@ -27,7 +25,6 @@ Focused on firmware, RTOS, control systems and low-level software development.
 - STM32 ecosystem
 - French language studies
 
----
 
 <h1 align="center">🤖 Technologies</h1>
 <p align="center">
@@ -40,8 +37,6 @@ Focused on firmware, RTOS, control systems and low-level software development.
     <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode">
 </p>
 
----
-
 <h1 align="center">📥 Contact</h1>
 
 <p align="center">
@@ -49,8 +44,6 @@ Focused on firmware, RTOS, control systems and low-level software development.
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
   </a>
 </p>
-
----
 
 <h1 align="center">📊 Featured Projects</h1>
 
@@ -60,7 +53,6 @@ Focused on firmware, RTOS, control systems and low-level software development.
 | Study Python | Python exercises and projects |
 | Study Linear Algebra | Notes and implementations |
 
----
 
 <h1 align="center">🛣️ Engineering Roadmap</h1>
 
