@@ -3,12 +3,6 @@
   <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Poliana Maia</h1>
-
-<p align="center">
-  Embedded Systems & Control Engineering Student
-</p>
-
 ---
 
 # About Me
