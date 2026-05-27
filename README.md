@@ -4,10 +4,10 @@
 <h3 align="center">
 Embedded Systems & Control Engineering Student
 </h3>
-
 <p align="center">
 Focused on firmware, RTOS, control systems and low-level software development.
 </p>
+<hr>
 
 <h1 align="center">🙋🏽‍♀️ About Me</h1>
 
@@ -24,7 +24,7 @@ Focused on firmware, RTOS, control systems and low-level software development.
 - Embedded C/C++
 - STM32 ecosystem
 - French language studies
-
+<hr>
 
 <h1 align="center">🤖 Technologies</h1>
 <p align="center">
@@ -36,14 +36,15 @@ Focused on firmware, RTOS, control systems and low-level software development.
     <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux">
     <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode">
 </p>
+<hr>
 
 <h1 align="center">📥 Contact</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/poliana-maia-85b15826b/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+<hr>
 
 <h1 align="center">📊 Featured Projects</h1>
 
@@ -52,7 +53,7 @@ Focused on firmware, RTOS, control systems and low-level software development.
 | Engineering Journal | Long-term engineering learning journal |
 | Study Python | Python exercises and projects |
 | Study Linear Algebra | Notes and implementations |
-
+<hr>
 
 <h1 align="center">🛣️ Engineering Roadmap</h1>
 
