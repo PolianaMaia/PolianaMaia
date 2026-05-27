@@ -1,16 +1,30 @@
-## Hi there 👋
+# Poliana Maia
 
-<!--
-**PolianaMaia/PolianaMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems & Control Systems Student
 
-Here are some ideas to get you started:
+Currently focused on:
+- Embedded C/C++
+- STM32
+- FreeRTOS
+- Control Systems
+- Signal Processing
+- French (DELF B2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Roadmap
+- CS50P
+- Linear Algebra
+- STM32 Projects
+- Control Engineering
+
+## Main Projects
+- PID Controller using STM32
+- RTOS Embedded System
+- Signal Processing Experiments
+
+## Languages
+- Portuguese 🇧🇷
+- English 🇺🇸
+- French 🇫🇷 (in progress)
+
+## Goal
+Engineering degree in Embedded Systems in Europe.
