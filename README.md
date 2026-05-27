@@ -1,10 +1,6 @@
-# Hello, I'm Poliana Maia!
-<!-- BANNER -->
 <p align="center">
   <img src="./assets/banner.gif" alt="Banner" width="100%">
 </p>
-
----
 
 # About Me
 
@@ -12,20 +8,7 @@
 - Focused on Embedded Systems, RTOS and Control Systems
 - Building a long-term engineering roadmap toward Europe
 - Studying French for DELF B2 certification
-- Background in SQL, databases and optimization
-
----
-
-# Current Focus
-
-- CS50P Harvard
-- Linear Algebra
-- Embedded C/C++
-- STM32 ecosystem
-- Control Systems fundamentals
-- French language studies
-
----
+- Background in SQL, Power BI, databases and optimization
 
 # Technologies
 
@@ -42,27 +25,13 @@
 
 ---
 
-# Engineering Roadmap
+# Contact
 
-## 2026
-- Python foundations
-- Mathematics
-- Linear Algebra
-- Embedded C basics
-
-## 2027
-- STM32
-- FreeRTOS
-- Control Systems
-- Signal Processing
-
-## 2028
-- PCB Design
-- RTOS Architecture
-- Embedded Security
-- European Engineering Applications
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/poliana-maia-85b15826b/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 # Featured Projects
 
@@ -94,11 +63,3 @@
 - Engineering studies in Europe
 
 ---
-
-# Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/poliana-maia-85b15826b/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
