@@ -1,4 +1,4 @@
-# Hello, I'm Poliana Maia
+# Hello, I'm Poliana Maia!
 <!-- BANNER -->
 <p align="center">
   <img src="./assets/banner.png" alt="Banner" width="100%">
