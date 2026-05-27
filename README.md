@@ -1,3 +1,4 @@
+# Hello, I'm Poliana Maia!
 <!-- BANNER -->
 <p align="center">
   <img src="./assets/banner.gif" alt="Banner" width="100%">
