@@ -7,25 +7,31 @@ Embedded Systems & Control Engineering Student
 <p align="center">
 Focused on firmware, RTOS, control systems and low-level software development.
 </p>
+<br>
+<br>
 
-<h2 align="center">🙋🏽‍♀️ About Me</h2>
+## 🙋🏽‍♀️ About Me
 
 - Currently studying Analysis and Systems Development
 - Focused on Embedded Systems, RTOS and Control Systems
 - Building a long-term engineering roadmap toward Europe
 - Studying French for DELF B2 certification
 - Background in SQL, Power BI, databases and optimization
+<br>
+<br>
 
-<h2 align="center">🎯 Current Focus</h2>
+## 🎯 Current Focus
 
 - CS50P Harvard
 - Linear Algebra
 - Embedded C/C++
 - STM32 ecosystem
 - French language studies
+<br>
+<br>
 
-<h2 align="center">🤖 Technologies</h2>
-<p align="center">
+## 🤖 Technologies
+<p align="left">
     <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
     <!-- <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c">
     <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus"> -->
@@ -34,16 +40,19 @@ Focused on firmware, RTOS, control systems and low-level software development.
     <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux">
     <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode">
 </p>
+<br>
+<br>
 
-
-<h2 align="center">📥 Contact</h2>
-<p align="center">
+## 📥 Contact
+<p align="left">
   <a href="https://www.linkedin.com/in/poliana-maia-85b15826b/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+<br>
+<br>
 
-<h2 align="center">📊 Featured Projects</h2>
+## 📊 Featured Projects
 
 | Project | Description |
 |---|---|
@@ -51,7 +60,10 @@ Focused on firmware, RTOS, control systems and low-level software development.
 | Study Python | Python exercises and projects |
 | Study Linear Algebra | Notes and implementations |
 
-<h2 align="center">🛣️ Engineering Roadmap</h2>
+<br>
+<br>
+
+## 🛣️ Engineering Roadmap
 
 2026 → Python, Mathematics & Embedded Foundations  
 2027 → STM32, FreeRTOS & Control Systems  
