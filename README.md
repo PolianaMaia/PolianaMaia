@@ -2,6 +2,18 @@
   <img src="./assets/banner.gif" alt="Banner" width="100%">
 </p>
 
+# Technologies
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode)
+
+---
+
 # About Me
 
 - Currently studying Analysis and Systems Development
@@ -9,19 +21,6 @@
 - Building a long-term engineering roadmap toward Europe
 - Studying French for DELF B2 certification
 - Background in SQL, Power BI, databases and optimization
-
-# Technologies
-
-## Languages
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql)
-
-## Tools
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![VSCode](https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
@@ -51,15 +50,3 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PolianaMaia&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-# Goals
-
-- Embedded Systems Engineering
-- RTOS Development
-- Control Systems
-- Firmware Engineering
-- Engineering studies in Europe
-
----
