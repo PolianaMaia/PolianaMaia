@@ -32,13 +32,13 @@ Focused on firmware, RTOS, control systems and low-level software development.
 
 ## 🤖 Technologies
 <p align="left">
-    <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/Python-FFFF55?style=for-the-badge&logo=python">
     <!-- <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c">
     <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus"> -->
-    <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql">
+    <img src="https://img.shields.io/badge/SQL-BB271A?style=for-the-badge&logo=postgresql">
     <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git">
-    <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux">
-    <img src="https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode">
+    <img src="https://img.shields.io/badge/PowerBI-FFFF55?style=for-the-badge&logo=powerbi">
+    <img src="https://img.shields.io/badge/VSCode-0000F5?style=for-the-badge&logo=visualstudiocode">
 </p>
 <br>
 <br>
